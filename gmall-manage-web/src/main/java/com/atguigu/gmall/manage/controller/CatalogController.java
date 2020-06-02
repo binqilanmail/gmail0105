@@ -17,7 +17,6 @@ import java.util.List;
 public class CatalogController {
 
     @Reference
-
     CatalogService catalogService;
     @RequestMapping("getCatalog1")
     @ResponseBody
