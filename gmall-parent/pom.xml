@@ -56,7 +56,7 @@
 
         <jna.version>4.5.1</jna.version>
 
-        <beanUtils.version>1.9.3</beanUtils.version>
+        <beanUtils.version>1.9.4</beanUtils.version>
 
     </properties>
     <dependencyManagement>
